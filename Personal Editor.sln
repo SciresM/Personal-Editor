@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personal Editor", "Personal Editor\Personal Editor.csproj", "{4458B881-CFEC-4B14-8A98-D6CB8130E4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4458B881-CFEC-4B14-8A98-D6CB8130E4DB}.Debug|x86.ActiveCfg = Release|x86
+		{4458B881-CFEC-4B14-8A98-D6CB8130E4DB}.Debug|x86.Build.0 = Release|x86
+		{4458B881-CFEC-4B14-8A98-D6CB8130E4DB}.Release|x86.ActiveCfg = Release|x86
+		{4458B881-CFEC-4B14-8A98-D6CB8130E4DB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
